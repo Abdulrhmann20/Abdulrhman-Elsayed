@@ -1,0 +1,6 @@
+{
+  "name": "نهم لحلول الأعمال | شريك أودو المعتمد - NHM Business Solutions",
+  "description": "واجهة المستخدم وتجربة الاستخدام الرسمية لشركة نهم لحلول الأعمال، شريك Odoo المعتمد للتحول الرقمي في المملكة العربية السعودية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
